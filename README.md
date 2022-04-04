@@ -1,5 +1,5 @@
 # Chat-and-Data-Bot
-ALL FILES MUST BE ADDED TO THE SAME DIRECTORY FOR THE BOT TO FUNCTION
+ALL FILES MUST BE ADDED TO THE SAME DIRECTORY FOR THE BOT TO FUNCTION.
 Framework for a chatbot with the ability to learn, store, and recall information about the user. Written in Python.
 The default user password is stored in the User_Password.txt file, however this can be changed within the program.
 You will be required to change your password on your initial load of the program.
