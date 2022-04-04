@@ -47,7 +47,7 @@ loopActive = True
 
 while loopActive == True:
     ad = input(
-        "Hey Nova! What do you want to do? (learn, forget, search, chat, study) >> ")  # UPDATE IF NAME CHANGES AND WHEN MORE FUNCTIONS ARE ADDED!!!
+       "Hey there! What do you want to do? (learn, forget, search, chat, study) >> ")  # UPDATE IF NAME CHANGES AND WHEN MORE FUNCTIONS ARE ADDED!!!
     action = ad
 
     while action == "learn":
